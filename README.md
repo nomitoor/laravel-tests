@@ -1,6 +1,6 @@
 
 # Extact laravel.zip folder
-`composer install`
+`composer install` <br />
 `php artisan migrate:fresh --seed`
 `php artisan serve`
 
